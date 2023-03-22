@@ -1,0 +1,7 @@
+body{margin: 0; padding:0; padding-top: 200px;}
+*{box-sizing: border-box;}
+tr:nth-child(odd){background-color: lightgray;}
+tr:nth-child(even){background-color: white;}
+.container-2{max-width: 1200px;  margin: 0 auto; padding-left: 20px; padding-right: 20px;  overflow-x: auto;  }
+th{ background-color: #4a4a40; color: white; }
+table{border-collapse: collapse;   width: 100%; text-align: left; border: 1px solid black;}
